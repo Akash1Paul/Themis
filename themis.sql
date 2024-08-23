@@ -144,7 +144,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `dob`, `contact`, `address`, `google_id`, `google_token`, `profile_pic`, `roles`, `remember_token`, `created_at`, `updated_at`) VALUES
 (1, 'Admin', 'admin@gmail.com', NULL, '$2y$10$A23gZhgj7aSsNVjriLph4O6eyB8/5q4KDZ35R/h.XUHgo2Y.LilbW', NULL, NULL, NULL, NULL, NULL, NULL, '1', NULL, '2024-04-11 00:00:30', '2024-04-11 00:00:30'),
-(3, 'Akash Paul', 'toton4paul@gmail.com', '2024-06-10 02:01:06', NULL, NULL, NULL, NULL, '110503948741128700504', 'ya29.a0AXooCgt221t_HlIQxHabg0R22oqBMBTwSNePUvCV-482ojGg1x7qPXAjptibUy_f9j95LLRFr5K-UTRnNSYOJkQruVJqm3ZWHf81d7nXUnti6fme7RVM6FuJjLcayTHsTzNi7ENnCpVGXHEzpqUOHxa1oxaVPKKiHmF0aCgYKAUoSARASFQHGX2MiyeZBnFOBd_pCiUiKAa8hCw0171', 'https://lh3.googleusercontent.com/a/ACg8ocL2haGUbcSLuCGmU8O_7lP8gv_j6pfwIbg3aVSBTs0DnsjYFEy4=s96-c', '0', NULL, '2024-04-11 07:04:14', '2024-06-10 02:01:07');
+(3, 'Akash Paul', 'dhfd@gmail.com', '2024-06-10 02:01:06', NULL, NULL, NULL, NULL, '110503948741128700504', 'ya29.a0AXooCgt221t_HlIQxHabg0R22oqBMBTwSNePUvCV-482ojGg1x7qPXAjptibUy_f9j95LLRFr5K-UTRnNSYOJkQruVJqm3ZWHf81d7nXUnti6fme7RVM6FuJjLcayTHsTzNi7ENnCpVGXHEzpqUOHxa1oxaVPKKiHmF0aCgYKAUoSARASFQHGX2MiyeZBnFOBd_pCiUiKAa8hCw0171', 'https://lh3.googleusercontent.com/a/ACg8ocL2haGUbcSLuCGmU8O_7lP8gv_j6pfwIbg3aVSBTs0DnsjYFEy4=s96-c', '0', NULL, '2024-04-11 07:04:14', '2024-06-10 02:01:07');
 
 --
 -- Indexes for dumped tables
